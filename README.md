@@ -8,3 +8,8 @@ conda activate my-conda-env
 
 # fire jupyter notebook
 jupyter notebook
+
+# install pandas package
+conda install anaconda:pandas
+
+# install 
