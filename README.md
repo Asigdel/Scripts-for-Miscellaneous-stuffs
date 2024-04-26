@@ -12,4 +12,5 @@ jupyter notebook
 # install pandas package
 conda install anaconda:pandas
 
-# install 
+# change the Working Directory
+os.chdir("/Users/anilsigdel/Documents/Miniconda/miniconda/envs/my-conda-env/bin")
